@@ -10,7 +10,7 @@ import backapp.com.projeto.entity.formulario;
 
 
 @RestController
-@RequestMapping("/form")
+@RequestMapping("/formulario")
 public class FormularioController {
 
     private final FormularioService formularioService;
